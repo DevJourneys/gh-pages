@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.deeplink_cookbook",
+    "package_name": "com.dc.flutter.flutter_app",
     "sha256_cert_fingerprints":
-    ["FF:2A:CF:7B:DD:CC:F1:03:3E:E8:B2:27:7C:A2:E3:3C:DE:13:DB:AC:8E:EB:3A:B9:72:A1:0E:26:8A:F5:EC:AF"]
+    ["A1:D3:C2:8A:97:C3:74:93:F9:4A:4D:C5:48:29:DA:B1:D3:6A:ED:53:04:BB:FF:E4:70:C4:D8:CD:CC:CB:92:38"]
   }
 }]
